@@ -57,6 +57,26 @@ def index(request):
     to test the code run
     python manage.py runserver 
     you will find something like this on your console
+    
+    
+C:\Users\DELL\Desktop\django-logging\django_logging>python manage.py runserver
+Watching for file changes with StatReloader
+Waiting for apps ready_event.
+Performing system checks...
+
+Apps ready_event triggered. Sending autoreload_started signal.
+Watching dir C:\Users\DELL\Desktop\django-logging\django_logging\core\templates with glob **/*.
+Watching dir C:\Users\DELL\Desktop\django-logging\django_logging\locale with glob **/*.mo.
+Watching dir C:\Users\DELL\Desktop\django-logging\django_logging\core\locale with glob **/*.mo.
+System check identified no issues (0 silenced).
+File C:\Users\DELL\Desktop\python\Lib\site-packages\django\utils\cache.py first seen with mtime 1632435054.2676353
+File C:\Users\DELL\Desktop\python\Lib\site-packages\django\contrib\auth\hashers.py first seen with mtime 1632435041.8814454
+File C:\Users\DELL\Desktop\python\Lib\site-packages\django\db\backends\sqlite3\features.py first seen with mtime 1632435053.4104104
+File C:\Users\DELL\Desktop\python\Lib\site-packages\pytz\exceptions.py first seen with mtime 1632435032.7699914
+File C:\Users\DELL\Desktop\python\Lib\site-packages\django\core\mail\message.py first seen with mtime 1632435052.8122766
+File C:\Users\DELL\Desktop\python\Lib\site-packages\django\core\paginator.py first seen with mtime 1632435052.670004
+File C:\Users\DELL\Desktop\python\Lib\site-packages\django\core\cache\utils.py first seen with mtime 1632435052.720763
+File C:\Users\DELL\Desktop\python\Lib\site-packages\django\db\models\fields\proxy.py first seen with mtime 1632435053.534549
 
      
  
