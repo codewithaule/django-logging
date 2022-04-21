@@ -78,5 +78,6 @@ File C:\Users\DELL\Desktop\python\Lib\site-packages\django\core\paginator.py fir
 File C:\Users\DELL\Desktop\python\Lib\site-packages\django\core\cache\utils.py first seen with mtime 1632435052.720763
 File C:\Users\DELL\Desktop\python\Lib\site-packages\django\db\models\fields\proxy.py first seen with mtime 1632435053.534549
 
-     
+     Check out django official documentation about django logging for more
+https://docs.djangoproject.com/en/dev/howto/logging/
  
